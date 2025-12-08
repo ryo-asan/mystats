@@ -30,8 +30,8 @@
 
 | カテゴリ | 使用技術 | 経験/習熟度 |
 | :--- | :--- | :--- |
-| **言語** | ![C](https://img.shields.io/badge/C-A8B9C8?style=flat&logo=c&logoColor=black) | **講義内外の組み込みシステム開発**にて使用。ハードウェア制御やメモリ管理に関する理解を深めました。 |
-| **言語** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | **卒業研究**（精度保証付き数値計算）のコアアルゴリズムの実装に使用。高い処理速度と精密な数値計算ロジック構築を経験。 |
+| **言語** | ![C](https://img.shields.io/badge/C-A8B9C8?style=flat&logo=c&logoColor=black) | **講義内外の組み込みシステム開発**にて使用。ハードウェア制御やメモリ管理に関する理解を深めた。 |
+| **言語** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) | **卒業研究**（精度保証付き数値計算）のコアアルゴリズムの実装に使用。 |
 | **言語** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | **数値実験**におけるデータの簡単な処理や、結果の**グラフ作成（可視化）**に使用。 |
 | **ツール** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | すべての個人開発および研究コードの**バージョン管理**に使用。 |
 
