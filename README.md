@@ -41,8 +41,8 @@
 | **ツール** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | すべての個人開発および研究コードの**バージョン管理**に使用しました |
 
 ---
-### 🎓 研究実績・発表 (Academic Presentations)
-
+## 🎓 研究実績・発表 (Academic Presentations)
+これまで経験してきた発表は以下の通りです。研究内容の詳細については別ファイルに記載しております。
 | 項目 | 詳細 |
 | :--- | :--- |
 | **学会名** | **日本応用数理学会 若手の会 第10回学生研究発表会** |
